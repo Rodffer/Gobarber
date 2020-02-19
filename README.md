@@ -2,9 +2,8 @@
 <a target="_blank" href="https://imageshack.com/i/plyEpyR6p"><img src="http://imagizer.imageshack.us/v2/xq90/921/yEpyR6.png" border="0"></a> 
 </div>
 
-<h2 align="center">Projeto GoBarber</h2>
-
 <p align="center">
+  <p class="Box-title f5 text-bold text-gray-dark">Projeto GoBarber</p>
   Aplicação que está sendo desenvolvida durante o Bootcamp da RocketSeat<br>
   <br>
   <img alt="year" src="https://img.shields.io/badge/year-2020-blueviolet">
