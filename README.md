@@ -5,7 +5,7 @@ Aplicação que está sendo desenvolvida durante o Bootcamp da RocketSeat
 
 ![](https://img.shields.io/badge/year-2020-blueviolet) ![](https://img.shields.io/badge/made%20by-Rodffer-blueviolet) ![](https://img.shields.io/badge/licence-MIT-blueviolet)
 
-##Tecnologias Utilizadas
+## Tecnologias Utilizadas
 + Node
 + React
 + Postgres
