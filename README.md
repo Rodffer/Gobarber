@@ -1,4 +1,10 @@
-![](http://imageshack.com/a/img921/4092/yEpyR6.png)
+<div align="center">
+<a target="_blank" href="https://imageshack.com/i/plyEpyR6p"><img src="http://imagizer.imageshack.us/v2/xq90/921/yEpyR6.png" border="0"></a> 
+</div>
+
+
+
+
 
 ### Projeto GoBarber
 Aplicação que está sendo desenvolvida durante o Bootcamp da RocketSeat
