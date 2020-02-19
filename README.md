@@ -1,7 +1,7 @@
 <div align="center">
 <a target="_blank" href="https://imageshack.com/i/plyEpyR6p"><img src="http://imagizer.imageshack.us/v2/xq90/921/yEpyR6.png" border="0"></a> 
 </div>
-<p style=50px align="center"><b>Projeto GoBarber</b></p>
+<p font size="20" align="center"><b>Projeto GoBarber</b></p>
 <p align="center">
   Aplicação que está sendo desenvolvida durante o Bootcamp da RocketSeat<br>
   <br>
