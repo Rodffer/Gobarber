@@ -2,7 +2,7 @@
 <a target="_blank" href="https://imageshack.com/i/plyEpyR6p"><img src="http://imagizer.imageshack.us/v2/xq90/921/yEpyR6.png" border="0"></a> 
 </div>
 
-### Projeto GoBarber
+<h2 align="center">Projeto GoBarber</h2>
 
 <p align="center">
   Aplicação que está sendo desenvolvida durante o Bootcamp da RocketSeat<br>
