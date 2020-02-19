@@ -3,7 +3,7 @@
 </div>
 
 <p align="center">
-  <p class="Box-title f5 text-bold text-gray-dark">Projeto GoBarber</p>
+  <p class="text-bold">Projeto GoBarber</p>
   Aplicação que está sendo desenvolvida durante o Bootcamp da RocketSeat<br>
   <br>
   <img alt="year" src="https://img.shields.io/badge/year-2020-blueviolet">
