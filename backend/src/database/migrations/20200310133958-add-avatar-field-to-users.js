@@ -9,7 +9,7 @@ module.exports = {
     });
   },
 
-  down: queryInterface => {
+  down: (queryInterface) => {
     return queryInterface.removeColumn('users', 'avatar_id');
   },
 };
