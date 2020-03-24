@@ -1,5 +1,5 @@
 backend/node_modules/
 backend/.vscode/
-
+backend/src/config/mail.js
 backend/tmp/uploads/*
 
