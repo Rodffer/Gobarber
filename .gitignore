@@ -2,4 +2,5 @@ backend/node_modules/
 backend/.vscode/
 backend/src/config/mail.js
 backend/tmp/uploads/*
-
+backend/.env
+backend/src/config/database.js
